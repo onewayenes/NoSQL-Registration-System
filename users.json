@@ -1,13 +1,11 @@
-{
-    "1": 
+[
     {
         "name": "Furkan",
         "password": "furkan123"
     },
     
-    "2":
     {
         "name": "Emir",
         "password": "emir123"
     }
-}
+]
